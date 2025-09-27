@@ -1,4 +1,4 @@
-Divide-and-Conquer & Advanced Algorithms Project
+
 1. Architecture Notes
 
 MergeSort uses a reusable buffer for merging, minimizing memory allocations.
